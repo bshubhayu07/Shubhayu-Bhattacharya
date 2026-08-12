@@ -28,7 +28,7 @@
 <h3 align="left"> Connect with me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shubhayu-bhattacharya/" target="_blank">
+  <a href="[https://www.linkedin.com/in/shubhayu-bhattacharya/](https://www.linkedin.com/in/shubhayu-bhattacharya-a6026a379/)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn"
          width="40"
