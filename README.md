@@ -17,15 +17,15 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-* 🌱 Currently learning **Python, Machine Learning and AI**
-* 💻 Interested in **Data Science and AI/ML**
-* 🔍 Exploring **RAG Systems and Generative AI**
-* 🚀 Building projects to improve my development skills
-* 📚 Always learning something new
+*  Currently learning **Python, Machine Learning and AI**
+*  Interested in **Data Science and AI/ML**
+* Exploring **RAG Systems and Generative AI**
+*  Building projects to improve my development skills
+* Always learning something new
 
 ---
 
-<h3 align="left">🔗 Connect with me</h3>
+<h3 align="left"> Connect with me</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shubhayu-bhattacharya/" target="_blank">
@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="left">
 
@@ -81,14 +81,14 @@
 
 ---
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<h3 align="center"> GitHub Statistics</h3>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=bshubhayu07&show_icons=true&theme=dark"
        alt="Shubhayu's GitHub Stats">
 </p>
 
-<h3 align="center">💻 Most Used Languages</h3>
+<h3 align="center"> Most Used Languages</h3>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bshubhayu07&layout=compact&theme=dark"
@@ -97,25 +97,7 @@
 
 ---
 
-<h3 align="center">🔥 GitHub Streak</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bshubhayu07&theme=dark"
-       alt="GitHub Streak">
-</p>
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bshubhayu07/bshubhayu07/output/github-contribution-grid-snake.svg"
-       alt="GitHub Contribution Snake">
-</p>
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile!</h3>
+<h3 align="center"> Thanks for visiting my profile!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bshubhayu07&label=Profile%20Views&color=0e75b6&style=flat"
