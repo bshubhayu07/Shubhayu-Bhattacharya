@@ -25,10 +25,15 @@
 
 ---
 
-<h3 align="left"> Connect with me</h3>
+# Corrected Connect With Me Section
+
+
+---
+
+<h3 align="left">Connect with me</h3>
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/shubhayu-bhattacharya/](https://www.linkedin.com/in/shubhayu-bhattacharya-a6026a379/)" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhayu-bhattacharya-a6026a379/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn"
          width="40"
@@ -44,6 +49,19 @@
 </p>
 
 ---
+
+
+### Important
+
+Your LinkedIn link should be exactly:
+
+```text
+https://www.linkedin.com/in/shubhayu-bhattacharya-a6026a379/
+```
+
+And **do not** put Markdown `[ ]` or `( )` around the URL inside the HTML `href`.
+
+The reason your screenshot shows the LinkedIn icon but the connection isn't working correctly is that the `<img>` URL is fine; **the `<a href="...">` URL was malformed**.
 
 <h3 align="left">Languages and Tools</h3>
 
