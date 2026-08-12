@@ -81,13 +81,6 @@
 
 ---
 
-<h3 align="center"> GitHub Statistics</h3>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bshubhayu07&show_icons=true&theme=dark"
-       alt="Shubhayu's GitHub Stats">
-</p>
-
 <h3 align="center"> Most Used Languages</h3>
 
 <p align="center">
